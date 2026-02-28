@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<CEDConfig Version="6">
+  <Language>..\Language\English.ini</Language>
+  <Port>2590</Port>
+  <Map>
+    <Map>W:\Facets\Map Files\map4.mul</Map>
+    <StaIdx>W:\Facets\Map Files\staidx4.mul</StaIdx>
+    <Statics>W:\Facets\Map Files\statics4.mul</Statics>
+    <Width>181</Width>
+    <Height>181</Height>
+    <Prefix>0</Prefix>
+    <Format>0x00000008</Format>
+  </Map>
+  <Tiledata>W:\Facets\Data Files\tiledata.mul</Tiledata>
+  <Radarcol>W:\Facets\Data Files\radarcol.mul</Radarcol>
+  <Accounts>
+    <Account>
+      <Name>aasr-sva</Name>
+      <PasswordHash>205e73579f21c2ed134dbd6ce7e4a1ea</PasswordHash>
+      <AccessLevel>255</AccessLevel>
+      <LastPos x="413" y="245"/>
+      <Regions/>
+    </Account>
+  </Accounts>
+  <Regions>
+    <Region>
+      <Name>test</Name>
+      <Area>
+        <Rect x1="0" x2="0" y1="0" y2="0"/>
+      </Area>
+    </Region>
+  </Regions>
+</CEDConfig>

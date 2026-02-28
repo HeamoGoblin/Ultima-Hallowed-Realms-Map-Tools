@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CEDConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="4">
+  <CentrEdPlus>true</CentrEdPlus>
+  <Port>2597</Port>
+  <Map>
+    <Map>ClientFiles/map1.mul</Map>
+    <StaIdx>ClientFiles/staidx1.mul</StaIdx>
+    <Statics>ClientFiles/statics1.mul</Statics>
+    <Width>896</Width>
+    <Height>512</Height>
+  </Map>
+  <Tiledata>ClientFiles/tiledata.mul</Tiledata>
+  <Radarcol>ClientFiles/radarcol.mul</Radarcol>
+  <Accounts>
+    <Account>
+      <Name>admin</Name>
+      <PasswordHash>21232f297a57a5a743894a0e4a801fc3</PasswordHash>
+      <AccessLevel>255</AccessLevel>
+      <LastPos x="3048" y="1000" />
+      <Regions />
+      <LastLogon>2026-02-27T18:56:56.759513-05:00</LastLogon>
+    </Account>
+  </Accounts>
+  <Regions />
+  <AutoBackup>
+    <Enabled>false</Enabled>
+    <Directory>backups</Directory>
+    <MaxBackups>7</MaxBackups>
+    <Interval>PT12H</Interval>
+  </AutoBackup>
+</CEDConfig>
