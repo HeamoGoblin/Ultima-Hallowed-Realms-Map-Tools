@@ -2,7 +2,7 @@
 
 Map Tools For Ultima Hallowed Realms
 ---------------------------------------------------
-1.) You will have to move the client Data Files into a folder you make called ClientFiles!
+1.) You will have to copy the client Data Files into a folder you make called ClientFiles!
 
 2.) Use the included installer file!
 
@@ -25,3 +25,5 @@ Account: admin
 Password: admin
 
 Now you are ready to start making map changes to your hearts content!
+
+To see your changes in game you will have to copy the files back into your clients dirctory and overrite the old ones reload the server then reload the client for these changes to take effect!
